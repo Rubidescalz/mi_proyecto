@@ -26,7 +26,7 @@ import React from "react";
                 Proyectos
               </h1>
               <p className="text-base md:text-lg text-slate-400 leading-relaxed">
-                Selección de trabajos destacados. Cada tarjeta enlaza a la demo y, cuando aplica, al código fuente.
+                Selecciona e ingresa al proyecto de IA que quieres probar
               </p>
             </div>
 

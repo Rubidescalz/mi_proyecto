@@ -34,7 +34,7 @@ export type Project = {
       description:
         "IA para apoyar el diagnóstico de retinopatía diabética mediante deep learning, con interpretación explicable (XAI), que detecta signos tempranos y visualiza regiones relevantes, aportando transparencia clínica. Desarrollada por David Angeles - Ingeniería de Sistemas - USS.",
       tech: "IA, Deep Learning, XAI, Salud Digital, Computer Vision",
-      demo: "https://rd-severidad-front-end.vercel.app/",
+      demo: "https://anem-iax-frontend.vercel.app/",
       image: "https://salauno.com.mx/wp-content/uploads/2022/10/retinopatia-diabetica-foto.jpeg",
       imageAlt: "Fondo clínico alusivo a retinopatía diabética",
     },
