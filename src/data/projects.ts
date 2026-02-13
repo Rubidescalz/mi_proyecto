@@ -1,3 +1,5 @@
+import rumileafImg from "../assets/rumileaf.png";
+
 export type Project = {
     title: string;
     description: string;
@@ -37,5 +39,14 @@ export type Project = {
       demo: "https://rd-severidad-front-end.vercel.app/",
       image: "https://salauno.com.mx/wp-content/uploads/2022/10/retinopatia-diabetica-foto.jpeg",
       imageAlt: "Fondo clínico alusivo a retinopatía diabética",
+    },
+    {
+    title: "RumiLeaf - Sistema Inteligente para la Detección de Enfermedades en Hojas de Café",
+    description:
+      "Sistema basado en Inteligencia Artificial y Visión por Computadora para la detección automática de enfermedades en hojas de café. El modelo identifica 14 clases distintas de patologías mediante técnicas de deep learning. Además, integra un chatbot impulsado por la API de Gemini (5 versiones) para brindar orientación técnica y recomendaciones. Desarrollado por Rubi Descalzi Tenorio - Ingeniera de Sistemas - USS.",
+    tech: "IA, Deep Learning, Computer Vision, YOLOv8, Gemini API, Agricultura Inteligente",
+    demo: "https://rumileaf-desca.vercel.app",
+    image: rumileafImg,
+    imageAlt: "RumiLeaf - Detección de enfermedades en hojas de café",
     },
   ];
